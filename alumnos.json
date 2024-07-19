@@ -1,0 +1,52 @@
+{
+    "data": [
+        {
+            "cedula": "12345678",
+            "nombre": "Mario",
+            "apellido": "Gonzalez",
+            "nota1": 85,
+            "nota2": 90,
+            "nota3": 95
+        },
+        {
+            "cedula": "87654321",
+            "nombre": "Ana",
+            "apellido": "Martinez",
+            "nota1": 78,
+            "nota2": 82,
+            "nota3": 88
+        },
+        {
+            "cedula": "11223344",
+            "nombre": "Luis",
+            "apellido": "Perez",
+            "nota1": 92,
+            "nota2": 89,
+            "nota3": 94
+        },
+        {
+            "cedula": "27903157",
+            "nombre": "Kenneth",
+            "apellido": "Perez",
+            "nota1": 10,
+            "nota2": 20,
+            "nota3": 30
+        },
+        {
+            "cedula": "28313462",
+            "nombre": "Manuel",
+            "apellido": "Gutierrez",
+            "nota1": 15,
+            "nota2": 25,
+            "nota3": 35
+        },
+        {
+            "cedula": "10377989",
+            "nombre": "Pedro",
+            "apellido": "Rojas",
+            "nota1": 18,
+            "nota2": 28,
+            "nota3": 38
+        }
+    ]
+}
